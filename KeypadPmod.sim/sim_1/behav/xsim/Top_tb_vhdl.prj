@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../KeypadPmod.srcs/sources_1/new/Top_s.vhd" \
+"../../../../KeypadPmod.srcs/sources_1/new/keypadDecoder_s.vhd" \
+"../../../../KeypadPmod.srcs/sources_1/new/sevSegDisp_s.vhd" \
+"../../../../KeypadPmod.srcs/sim_1/new/Top_tb.vhd" \
+
+# Do not sort compile order
+nosort

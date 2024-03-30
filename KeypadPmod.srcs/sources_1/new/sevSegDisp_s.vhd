@@ -46,7 +46,7 @@ begin
     proc1 : process( digit_in )
     begin
         case( digit_in ) is
-            when x"0" => disp_t <= "1000000"; 
+            when x"0" => disp_t <= "1000000";  
             when x"1" => disp_t <= "1111001";
             when x"2" => disp_t <= "0100100"; 
             when x"3" => disp_t <= "0110000"; 

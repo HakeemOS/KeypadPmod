@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 30 17:50:17 2024
+# Process ID: 1196
+# Current directory: C:/Users/squid/OneDrive/Documents/Vivado/2024/KeypadPmod/KeypadPmod.runs/impl_1
+# Command line: vivado.exe -log Top_s.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Top_s.tcl -notrace
+# Log file: C:/Users/squid/OneDrive/Documents/Vivado/2024/KeypadPmod/KeypadPmod.runs/impl_1/Top_s.vdi
+# Journal file: C:/Users/squid/OneDrive/Documents/Vivado/2024/KeypadPmod/KeypadPmod.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Top_s.tcl -notrace
